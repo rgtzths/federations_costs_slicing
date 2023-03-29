@@ -1,0 +1,30 @@
+version: "3.9"
+   
+services:
+  master:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports: 
+      - "22"
+    links: 
+      - worker1
+      - worker2
+      - worker3
+    environment:
+      - ID=manager
+
+  worker1: 
+    build: .
+    environment:
+      - ID=worker-1
+
+  worker2: 
+    build: .
+    environment:
+      - ID=worker-2
+
+  worker3: 
+    build: .
+    environment:
+      - ID=worker-3
