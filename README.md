@@ -45,4 +45,17 @@ inside the `code` folder.
 To change the hyperparameters please confirm the available options in the mpi_training.py and mpi_custom_training.py files
 
 
+# Results
 
+The results obtained with the different hyperparameters are presented in the `paper_results` folder
+the translation for the folder names is 10_g_50_l -> (decentralized optimization with 10 global epochs and 50 local epochs) and fed_sgd_64 -> (centralized optimization with batch size 64)
+
+
+
+## Authors
+
+* **Rafael Teixeira** - [rgtzths](https://github.com/rgtzths)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
