@@ -59,3 +59,8 @@ the translation for the folder names is 10_g_50_l -> (decentralized optimization
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+##Citation
+
+If you use this code please site our work:
+Teixeira, Rafael & Antunes, Mário & Gomes, Diogo & Aguiar, Rui. (2023). The learning costs of Federated Learning in constrained scenarios. 10.1109/FiCloud58648.2023.00011. 
