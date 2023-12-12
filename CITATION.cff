@@ -2,7 +2,6 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -13,4 +12,35 @@ authors:
     email: rafaelgteixeira@av.it.pt
     affiliation: IT Aveiro
     orcid: 'https://orcid.org/0000-0001-7211-382X'
+
+title: "dl_costs"
+version: 1.0.0
+doi: 10.1109/FiCloud58648.2023.00011
+date-released: 2023-08-16
+url: "https://github.com/rgtzths/dl_costs"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Teixeira"
+    given-names: "Rafael"
+    orcid: "https://orcid.org/0000-0001-7211-382X"
+  - family-names: "Antunes"
+    given-names: "Mário"
+    orcid: "https://orcid.org/0000-0002-6504-9441"
+  - family-names: "Gomes"
+    given-names: "Diogo"
+    orcid: "https://orcid.org/0000-0002-5848-2802"
+  - family-names: "Aguiar"
+    given-names: "Rui L."
+    orcid: "https://orcid.org/0000-0003-0107-6253"
+  title: "The learning costs of Federated Learning in constrained scenarios"
+  doi: 10.1109/FiCloud58648.2023.00011
+  conference:
+    name: "International Conference on Future Internet of Things and Cloud"
+    city: "Marrakesh"
+    region: "Marrakesh"
+    country: "Marocco"
+    date-start: 2023-08-14
+    date-end: 2023-08-16
 license: MIT
+
