@@ -2,16 +2,14 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
+message: "If you use this software, please cite it as bellow".
 type: software
 authors:
-  - given-names: Rafael
-    family-names: Teixeira
-    email: rafaelgteixeira@av.it.pt
-    affiliation: IT Aveiro
-    orcid: 'https://orcid.org/0000-0001-7211-382X'
+  - given-names: "Rafael"
+    family-names: "Teixeira"
+    email: "rafaelgteixeira@av.it.pt"
+    affiliation: "IT Aveiro"
+    orcid: "https://orcid.org/0000-0001-7211-382X"
 
 title: "dl_costs"
 version: 1.0.0
