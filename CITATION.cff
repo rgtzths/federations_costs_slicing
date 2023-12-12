@@ -7,6 +7,7 @@ authors:
 - family-names: "Rafael"
   given-names: "Teixeira"
   orcid: "https://orcid.org/0000-0000-0000-0000"
+
 title: "dl_costs"
 version: 1.0.0
 doi: 10.1109/FiCloud58648.2023.00011
@@ -36,5 +37,3 @@ preferred-citation:
     country: "Marocco"
     date-start: 2023-08-14
     date-end: 2023-08-16
-license: MIT
-
